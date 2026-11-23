@@ -7,12 +7,9 @@ I've spent 8+ years making technical products easy to understand and easy to fin
 ---
 
 ### 📈 Marketing, content and SEO
-- **Multilogin** (browser privacy and cloud phone SaaS) · *Content Manager and SEO Lead*
-  Grew organic traffic from **5,000 to 55,000 visits a week** in six months. Blogs and glossaries became a sign-up channel bringing in **up to 55 paid trials a week**. Led the content side of the brand repositioning for the flagship cloud phone launch, from "the pioneer of antidetect technology" to a cloud phone provider, including getting Google and AI answers to reflect it. Wrote the six-title Multilogin Academy playbook series.
-- **BlueCart** (B2B e-commerce SaaS) · *Senior Marketing SEO Copywriter*
-  Edited a team of 5 writers; traffic up 35% and rankings up 50% across 20+ pages, several at position 1.
-- **Modo Yoga International** and **Plan Your Baby** · *Digital Marketing Manager (contract)*
-  Franchise recruitment site, funnels and follow-up automations in GoHighLevel, with A/B-tested copy.
+- **Multilogin** (browser privacy and cloud phone SaaS) · *Content Manager and SEO Lead*: Grew organic traffic from **5,000 to 55,000 visits a week** in six months. Blogs and glossaries became a sign-up channel bringing in **up to 55 paid trials a week**. Led the content side of the brand repositioning for the flagship cloud phone launch, from "the pioneer of antidetect technology" to a cloud phone provider, including getting Google and AI answers to reflect it. Wrote the six-title Multilogin Academy playbook series.
+- **BlueCart** (B2B e-commerce SaaS) · *Senior Marketing SEO Copywriter*: Edited a team of 5 writers; traffic up 35% and rankings up 50% across 20+ pages, several at position 1.
+- **Modo Yoga International** and **Plan Your Baby** · *Digital Marketing Manager (contract)*: Franchise recruitment site, funnels and follow-up automations in GoHighLevel, with A/B-tested copy.
 - **LINBIT** · *Social Media Manager* · engagement up 30%, 5,000+ LinkedIn following.
 - **RAKwireless** · *Content Manager* · white papers, case studies and technical docs.
 - **Geekflare, CNX Software, InCountry** · tech, security and privacy writing for 100,000+ readers.
@@ -38,11 +35,11 @@ Tech Della also builds MVPs, websites and AI automations for founders, and runs 
 ---
 
 ### 🧰 Toolbox
-**Marketing:** SEO · AEO/GEO · content strategy · copywriting · email · LinkedIn · partnerships · motion video
-**Data:** GA4 · Search Console · Semrush
-**CRM and automation:** HubSpot · GoHighLevel · agents · MCP
-**Build:** Claude Code · Next.js · TypeScript · Prisma · Supabase · WordPress
-**Content:** HeyGen · ElevenLabs · Canva
+- **Marketing:** SEO · AEO/GEO · content strategy · copywriting · email · LinkedIn · partnerships · motion video
+- **Data:** GA4 · Search Console · Semrush
+- **CRM and automation:** HubSpot · GoHighLevel · agents · MCP
+- **Build:** Claude Code · Next.js · TypeScript · Prisma · Supabase · WordPress
+- **Content:** HeyGen · ElevenLabs · Canva
 
 ### 📎 Start here
 - 🌐 Portfolio and writing samples: **[tiwalade-joanna-okedara.github.io](https://tiwalade-joanna-okedara.github.io/)**
