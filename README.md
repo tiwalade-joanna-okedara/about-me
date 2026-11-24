@@ -32,6 +32,27 @@ I build with **Claude Code, MCP, agents and automations** every day.
 
 Tech Della also builds MVPs, websites and AI automations for founders, and runs marketing for businesses.
 
+### 🧪 Open-source projects
+Small, free tools I built for marketers and for people building in Nigeria. Browser tools run fully on the page.
+
+**For marketers, SEO and AI search**
+| Project | What it does | |
+|---|---|---|
+| [ai-answer-tracker](https://github.com/tiwalade-joanna-okedara/ai-answer-tracker) | Checks whether ChatGPT, Claude and Perplexity name your brand, and who gets named first | [Demo](https://tiwalade-joanna-okedara.github.io/ai-answer-tracker/) |
+| [llms-txt-generator](https://github.com/tiwalade-joanna-okedara/llms-txt-generator) | Turns a sitemap into an llms.txt file, plus robots.txt rules for AI crawlers | [Try it](https://tiwalade-joanna-okedara.github.io/llms-txt-generator/) |
+| [schema-checker](https://github.com/tiwalade-joanna-okedara/schema-checker) | Shows which JSON-LD schema fields a page is missing | [Try it](https://tiwalade-joanna-okedara.github.io/schema-checker/) |
+| [slop-detector](https://github.com/tiwalade-joanna-okedara/slop-detector) | Flags filler, hype words, unsourced claims and em dashes in a draft | [Try it](https://tiwalade-joanna-okedara.github.io/slop-detector/) |
+| [brief-builder](https://github.com/tiwalade-joanna-okedara/brief-builder) | Keyword in, writer-ready content brief out | [Try it](https://tiwalade-joanna-okedara.github.io/brief-builder/) |
+| [linkedin-reply-helper](https://github.com/tiwalade-joanna-okedara/linkedin-reply-helper) | Drafts LinkedIn comment replies in your voice, for you to approve | Node CLI |
+| [resume-tailor](https://github.com/tiwalade-joanna-okedara/resume-tailor) | One profile, a tailored resume for every job, without inventing claims | Python CLI |
+
+**For builders in Nigeria**
+| Project | What it does | |
+|---|---|---|
+| [naija-api-directory](https://github.com/tiwalade-joanna-okedara/naija-api-directory) | 40 APIs for building in Nigeria: payments, KYC, bank data, SMS, bills, delivery | [Browse](https://tiwalade-joanna-okedara.github.io/naija-api-directory/) |
+| [wahala-index](https://github.com/tiwalade-joanna-okedara/wahala-index) | First-hand reliability reports on Nigerian APIs, from 😌 to 😩 | [Browse](https://tiwalade-joanna-okedara.github.io/wahala-index/) |
+| [naira](https://github.com/tiwalade-joanna-okedara/naira) | Format ₦, write amounts in words and handle kobo without float errors | npm-ready |
+
 ---
 
 ### 🧰 Toolbox
